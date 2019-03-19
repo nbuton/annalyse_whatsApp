@@ -42,7 +42,7 @@ def dataToMoy(nbPoint,donnees):
 
 """
 #Sans filtrage
-plt.title("Nombre de messages par jours sur la conversation les pti lapin")
+plt.title("Nombre de messages par jours sur la conversation")
 plt.xlabel("Date")
 plt.ylabel("Nombre de messages")
 plt.xticks( xplacement, xlabel )
